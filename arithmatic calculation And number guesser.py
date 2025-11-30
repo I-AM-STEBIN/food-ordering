@@ -61,4 +61,4 @@ while True:
         print("Exit")
         continue
     else:
-        print("Invalid choice try again,")
+        print("wrong choice!")
